@@ -11,6 +11,7 @@ From the base directory run:
 ```bash
 cd static
 npm run dev
+inet iet neit eitn 
 ```
 
 ## How to build and deploy frontend?
